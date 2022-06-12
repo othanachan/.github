@@ -1,3 +1,3 @@
 # Othanachan Labs 
 
-A platform to ideate, incube and launch innovations. 
+A launch pad to ideate and incubate innovations
